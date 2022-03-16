@@ -4,9 +4,12 @@
 ## Overview
 A quick project to work on API requests and css.
 
+## Screenshot
+![screenshot](screenshot.png)
+
 ## Functionality
 
-One page site display live prices (USD) of:
+One page site displaying live prices (USD) of:
 - Bitcoin
 - Ethereum
 - Dogecoin
@@ -16,3 +19,4 @@ One page site display live prices (USD) of:
 --- 
 ## Reference
 - [Easy tutorials](https://www.youtube.com/watch?v=nidmDGwJ-Jw)
+
